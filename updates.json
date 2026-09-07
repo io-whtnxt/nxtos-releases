@@ -1,10 +1,10 @@
 {
   "latest": {
-    "version": "0.3.6",
-    "url": "https://github.com/io-whtnxt/nxtos-releases/releases/download/v0.3.6/NxtOS-0.3.6.dmg",
-    "sha256": "dddccb50ebc2418afc36c429e58947b62c977fc8fca11ce5e59fde6f2b2722ba",
-    "size": 44314472,
-    "notes": "https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.3.6",
-    "publishedAt": "2026-09-07T22:31:08Z"
+    "version": "0.3.7",
+    "url": "https://github.com/io-whtnxt/nxtos-releases/releases/download/v0.3.7/NxtOS-0.3.7.dmg",
+    "sha256": "1de38f31c9e0c74230419a52fc7bcbcd67b2e8b104859d8d4f33b3b98ab8ebb9",
+    "size": 44292812,
+    "notes": "https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.3.7",
+    "publishedAt": "2026-09-07T22:47:21Z"
   }
 }
