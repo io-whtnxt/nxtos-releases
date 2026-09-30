@@ -1,0 +1,12 @@
+{
+  "version": "0.4.0",
+  "notes": "Release notes: https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.4.0",
+  "notes_url": "https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.4.0",
+  "pub_date": "2026-09-30T13:01:44Z",
+  "platforms": {
+    "macos-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUNGdDVJdytRZXdRVnRXY0hnWnl0Qlo1ZVlPUGtyR3VDcXhTT1NOUEJhc2R0cU42eit4Z0REZGFOQmVuOXF5NGVEZkFTY1h6UVNaaCtGQWFOdFNlNFp3QU5RTzdWMkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzY2Mzc2CWZpbGU6Tnh0T1MuYXBwLnRhci5negl2ZXJzaW9uOjAuNC4wCjJLeStJKzk5VUM4YWl0bjlCYTduTEdKQ2NVZDJjUFdhdWVsSmpNVjlOSEVNNlBYOWIrNmRWc2xFeVROZ0NIR0lLVzdUbFdhRExqL0lpSC9pMVdJcER3PT0K",
+      "url": "https://github.com/io-whtnxt/nxtos-releases/releases/download/v0.4.0/NxtOS-0.4.0.app.tar.gz"
+    }
+  }
+}
