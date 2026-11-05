@@ -1,0 +1,14 @@
+name: Question
+description: Ask how something works.
+labels: ["question", "beta"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: NxtOS version (if it matters)
