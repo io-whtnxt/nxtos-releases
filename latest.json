@@ -1,12 +1,16 @@
 {
-  "version": "0.4.2",
-  "notes": "Release notes: https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.4.2",
-  "notes_url": "https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.4.2",
-  "pub_date": "2026-10-07T14:31:08Z",
+  "version": "0.5.0",
+  "notes": "Release notes: https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.5.0",
+  "notes_url": "https://github.com/io-whtnxt/nxtos-releases/releases/tag/v0.5.0",
+  "pub_date": "2026-11-05T03:29:21Z",
   "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRemJjR3ZnSzl3S3YvQUNHU0laTHJocllYSUwxQm5yREdjdnB0bUdWbmRQZUNCV3pYbGlNSXVFa2xkUDRxNmdQK1d0TGI3OXlLMitFMkxybjNMSFJBUDhIVHVtWEdSZlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ4MjIyCWZpbGU6Tnh0T1MuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wCml2akFwaXNyek14UVdoMERzSVFBWXFhYXRqdkJsTk00cTdwNzdnYXBPakRoWjg5Q3IyNzlCc1FSOTZCeEpjUzlPcjBJTGZVZnREYWJMeUNob1FkeURBPT0K",
+      "url": "https://github.com/io-whtnxt/nxtos-releases/releases/download/v0.5.0/NxtOS-0.5.0.app.tar.gz"
+    },
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQUNGdDVJdytRZTdGcldFeWRWSnBuUEc0MnpldjE0U2NmVkdBbjIyUVJVdG9RWjZVWHFpYUFhK3pHT3Q2S09mNzJTZU91cHdtN3JGZDdPanBTQ0xQSkZMNEdya2hWcmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgzMTcxCWZpbGU6Tnh0T1MuYXBwLnRhci5negl2ZXJzaW9uOjAuNC4yCkdjNGxhOVBiN3J5UHJ0M0VIenlZdTh1WlpsUTZOVXFvenpOVTdtYzlSbkdGbUx0R2tUeE9VNktuYWJLNGFrMjNIcWRFbExvWFZlL1JuM0JnZzlXakFnPT0K",
-      "url": "https://github.com/io-whtnxt/nxtos-releases/releases/download/v0.4.2/NxtOS-0.4.2.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRemJjR3ZnSzl3S3YvQUNHU0laTHJocllYSUwxQm5yREdjdnB0bUdWbmRQZUNCV3pYbGlNSXVFa2xkUDRxNmdQK1d0TGI3OXlLMitFMkxybjNMSFJBUDhIVHVtWEdSZlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ4MjIyCWZpbGU6Tnh0T1MuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wCml2akFwaXNyek14UVdoMERzSVFBWXFhYXRqdkJsTk00cTdwNzdnYXBPakRoWjg5Q3IyNzlCc1FSOTZCeEpjUzlPcjBJTGZVZnREYWJMeUNob1FkeURBPT0K",
+      "url": "https://github.com/io-whtnxt/nxtos-releases/releases/download/v0.5.0/NxtOS-0.5.0.app.tar.gz"
     }
   }
 }
