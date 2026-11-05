@@ -1,0 +1,52 @@
+name: Something isn't working
+description: Report a problem with NxtOS.
+labels: ["bug", "beta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing NxtOS. Never paste API keys, tokens or passwords here; this page is public.
+  - type: input
+    id: version
+    attributes:
+      label: NxtOS version
+      description: Settings, General, Updates shows it. "Report a problem" in the app fills this in.
+      placeholder: "0.5.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "macOS 26.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where did it happen?
+      options:
+        - The desktop app
+        - The terminal (nxtos)
+        - Both
+        - Installing or updating
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What did you do?
+      description: The steps that lead to the problem, as plainly as you can.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Screenshots help. If NxtOS showed an error with "Copy details", paste it here after checking it holds nothing private.
