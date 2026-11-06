@@ -31,3 +31,13 @@ running, so a feed that rolls back cannot roll an installation back with it.
 Download the `.dmg` from [Releases](../../releases), open it, and drag NxtOS
 to Applications. The same builds are mirrored at
 <https://downloads.whtnxt.io/>.
+
+## Docs
+
+Guides for the private beta. Each covers the desktop app and the `nxtos` terminal command.
+
+- [Install](docs/install.md)
+- [First run](docs/first-run.md)
+- [Engines](docs/engines.md)
+- [Updates](docs/updates.md)
+- [Feedback](docs/feedback.md)
