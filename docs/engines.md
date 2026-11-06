@@ -11,7 +11,7 @@ NxtOS 0.5.1 includes setup for four:
 - OpenCode
 - pi
 
-You keep the subscription or key you already have for each. Any other ACP agent can be added with a `nxtos/engines.json` file in your workspace. The README in the NxtOS source describes the format. This page covers the four above.
+You keep the subscription or key you already have for each. This page covers the four above.
 
 ## Set up an agent
 

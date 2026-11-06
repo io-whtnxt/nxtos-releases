@@ -5,7 +5,7 @@ NxtOS is a Mac app with a terminal command that ships inside it. This page gets 
 ## Requirements
 
 - A Mac with Apple silicon. Intel Macs are not supported.
-- macOS 13.3 or later. <!-- UNVERIFIED: 13.3 is taken from the product page; the app's own minimum-version setting could not be found in the shipped 0.5.1 source, so check that an older macOS is actually refused -->
+- macOS 13.3 or later.
 - At least one coding agent of your own, signed in with the account you already have. See [Engines](engines.md).
 
 ## Download
