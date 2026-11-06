@@ -12,7 +12,7 @@ A workspace is the folder NxtOS works in. Everything the agent can read or write
 
 | Desktop | Terminal |
 | --- | --- |
-| Choose a folder with Add project in the sidebar. Or open Settings > Workspace and type the full path under Switch workspace. | Run `nxtos` from a terminal opened in the folder. The workspace is the current directory. Pass `--workspace <dir>` to use another. |
+| Choose a folder with Add a Project in the sidebar. Or open Settings > Workspace and type the full path under Switch workspace. | Run `nxtos` from a terminal opened in the folder. The workspace is the current directory. Pass `--workspace <dir>` to use another. |
 
 Switching workspace in the desktop app closes any running conversations. NxtOS asks first.
 
@@ -28,7 +28,7 @@ Sign-in happens with the agent's own account. NxtOS does not ask for your agent 
 
 | Desktop | Terminal |
 | --- | --- |
-| Type in the message box and send. | Type a message at the prompt. Bare words after the command also work as a one-shot prompt, as in `nxtos fix the bug`. |
+| Above the message box, pick an agent from Choose an agent (the conversation type next to it starts as Chat), then type and send. | Type a message at the prompt. Bare words after the command also work as a one-shot prompt, as in `nxtos fix the bug`. |
 
 In the terminal, `/help` lists every command. `/new` starts a fresh session. `Ctrl-C` stops a turn. `Ctrl-D` leaves.
 
@@ -50,6 +50,10 @@ In the terminal, `/doctor` prints a readiness report: versions, workspace, polic
 
 ## What a fresh machine shows
 
-<!-- UNVERIFIED: the first-launch screen, any welcome or setup wizard, and the order of agent set-up prompts on a machine with no agents installed were not observed. This page describes the settings that exist in the shipped code, not a captured first-launch walkthrough. -->
+A small Starting NxtOS window shows while the local runtime starts, usually for a few seconds. The main window replaces it. There is no setup wizard and no sign-in to NxtOS itself.
 
-Expect an empty workspace and no agent in use until you set one up. Add screenshots here after a clean-machine run.
+![The Starting NxtOS window](images/first-run-starting.png)
+
+The main window opens with an empty sidebar (New conversation, Connectors, Search, Chats, Projects with Add a Project, and Settings at the bottom) and the line "Start a new conversation in Chat using Choose an agent" above the message box. The box reads "Getting ready..." for a moment, then accepts text. No agent is in use until you pick one.
+
+![The main window on a first launch](images/first-run-main-window.png)

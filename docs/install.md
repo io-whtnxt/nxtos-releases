@@ -23,7 +23,7 @@ The same builds are mirrored at <https://downloads.whtnxt.io/>.
 NxtOS is signed with a Developer ID and notarized by Apple, so macOS can check it before it opens.
 
 1. Open NxtOS from Applications.
-2. macOS may ask you to confirm that you want to open an app downloaded from the internet. Choose Open. <!-- UNVERIFIED: exact Gatekeeper wording and whether the prompt appears at all on a fresh machine; this depends on macOS, not on NxtOS code -->
+2. macOS may ask you to confirm that you want to open an app downloaded from the internet. Choose Open.
 3. NxtOS starts its background service and opens a window.
 
 You should not need to open System Settings or right-click the app. If macOS says it cannot verify the app, do not work around it. Download the disk image again from Releases and [report the problem](feedback.md).
@@ -37,7 +37,7 @@ NxtOS starts a small local service when it opens. If nothing usable appears afte
 - Retry
 - Connect to another computer
 
-A start that is only slow offers Keep waiting and Check for Updates. A start that failed offers Retry and Connect to another computer. <!-- UNVERIFIED: the ten-second limit is a code constant; real startup time on a fresh machine was not measured -->
+A start that is only slow offers Keep waiting and Check for Updates. A start that failed offers Retry and Connect to another computer.
 
 ## Verify the download (optional)
 

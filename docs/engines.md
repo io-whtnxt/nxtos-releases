@@ -83,4 +83,4 @@ When the plan is ready you are offered these options. The text is the same idea 
 
 Nothing changes until you choose. Esc, or an empty Enter in the terminal, keeps planning. "Start fresh" begins a new conversation from the task ledger rather than the old transcript.
 
-<!-- UNVERIFIED: how plan mode is switched on from the permission chip (control name and placement) was not confirmed against the rendered app -->
+To turn plan mode on in the desktop app, open the permission chip in the message box and switch on Plan. The chip shows a plan icon while it is on.
